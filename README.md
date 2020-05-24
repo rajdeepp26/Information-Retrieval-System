@@ -9,16 +9,16 @@ Click here: http://www.ijstr.org/final-print/sep2019/Information-Retrieval-In-As
 
 The proposed IR system consist of following phases.
 1. Structuring the query.
-1. Tokenization.
-2. Removal of punctuation and numbers.
-3. Removal of stop words.
-4. Stemming.
+- Tokenization.
+- Removal of punctuation and numbers.
+- Removal of stop words.
+- Stemming.
 		
 2. Use of Assamese Wordnet in query expansion.
 
 3. Accessing information from Wikipedia.
-1. Set Language.
-2. Extract the wikipedia page titles.
-3. Extract the entire page.
+- Set Language.
+- Extract the wikipedia page titles.
+- Extract the entire page.
   
 This program requires additional resources like "Assamese Wordnet" file, "stop words in Assamese" file, "dictionary" file and "Assamese Stemmer" file which is developed by IT dept of Gauhati University Institute of Science and Technology.
