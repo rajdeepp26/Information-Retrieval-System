@@ -7,7 +7,7 @@ Click here: http://www.ijstr.org/final-print/sep2019/Information-Retrieval-In-As
 
 ## Methodology:
 
-The proposed IR system consist of following phases:
+The proposed IR system consist of following phases.
 1. Structuring the query.
 	1.1. Tokenization.
 	1.2. Removal of punctuation and numbers.
